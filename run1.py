@@ -1,5 +1,5 @@
 import uuid
 import os
 os.system('termux-setup-storage')
-import run1
+import legnd
 run1.menu()
